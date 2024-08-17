@@ -1,3 +1,3 @@
 <!-- start-quote -->
-Prediction for 2024-08-17 Avg:19.8, Min:14.5, Max:25.6
+Prediction for 2024-08-18 Avg:18.8, Min:14.5, Max:23.4
 <!-- end-quote -->
